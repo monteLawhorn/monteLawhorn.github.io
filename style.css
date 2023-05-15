@@ -1,0 +1,76 @@
+body {
+    background-color: #423e28;
+}
+
+#intro {
+    color: white;
+    height: 100vh;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#intro h1 {
+    font-size: 96px;
+}
+
+#intro h3 {
+    color: #fd490d;
+}
+
+#intro code {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 1.75rem;
+    color: #fd490d;
+}
+
+#arrowDown {
+    color: #dab785;
+    font-size: 75px;
+    position: absolute;
+    bottom: 30px;
+    left: calc(50% - 37.5px);
+}
+
+#Bio {
+    color: white;
+    background: #808d8e;
+    padding: 30px;
+}
+
+#contact {
+    background: #dab785;
+    color: white;
+    padding: 30px;
+}
+
+#contact a {
+    color: white;
+}
+
+#email {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+}
+
+form .btn-primary {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #fd490d;
+}
+
+#portfolio {
+    background-color: #1a3d74;
+    padding: 30px;
+}
+
+footer {
+    background-color: #423e28;
+    color: white;
+    padding: 30px;
+}
